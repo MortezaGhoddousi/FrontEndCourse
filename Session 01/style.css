@@ -1,0 +1,59 @@
+/* selector {
+    property1: value1;
+    property2: value2;
+    property3: value3;
+} */
+
+/* selection by tag name */
+
+p {
+    color: red;
+}
+
+/* selection by id */
+
+#p1 {
+    color: blue;
+}
+
+/* selection by class name */
+
+.p2 {
+    color: green;
+}
+
+/* selection by position */
+
+div .p2 {
+    color: brown;
+}
+
+/* multiple selection */
+
+/* #p1 {
+    font-size: 30px;
+}
+
+.p2 {
+    font-size: 30px;
+} */
+
+#p1,
+.p2 {
+    font-size: 30px;
+}
+
+/* selection by attribute */
+/* 
+#username {
+    border: 2px solid red;
+}
+
+.username {
+    border-radius: 15px;
+} */
+
+input[type="text"] {
+    border: 2px solid red;
+    border-radius: 15px;
+}
