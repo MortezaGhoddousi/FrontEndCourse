@@ -1,0 +1,83 @@
+#bold {
+    font-weight: bold;
+    /* padding: 25px; */
+    /* margin: 50px; */
+    /* border: 3px solid red; */
+
+    box-sizing: border-box;
+    width: 200px;
+    height: 50px;
+
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+
+    border: 5px double red;
+
+    border-radius: 25px;
+}
+
+#italic {
+    font-style: italic;
+}
+
+#align {
+    text-align: center;
+}
+
+#uppercase {
+    text-transform: uppercase;
+}
+
+#lowercase {
+    text-transform: lowercase;
+}
+
+#capitalize {
+    text-transform: capitalize;
+}
+
+#underline {
+    text-decoration: underline;
+}
+
+#overline {
+    text-decoration: overline;
+}
+
+#lineThrough {
+    text-decoration: line-through;
+}
+
+#fontFamily {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+}
+
+#wordSpacing {
+    word-spacing: 30px;
+}
+
+#letterSpacing {
+    letter-spacing: 5px;
+}
+
+#lineHeight {
+    line-height: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
