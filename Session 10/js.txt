@@ -1,0 +1,11 @@
+kinds of iterations structure
+1. while loop:
+    this kind of loops is used for all the iteration structures
+
+2. for loop:
+    we know about the iteration counts
+
+for writing a script which is using iteration structure we have to assign 3 different parts for our loop.
+    - initial step
+    - final step
+    - step

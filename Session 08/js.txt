@@ -1,0 +1,12 @@
+variables => in order to store data in our script
+types of variables:
+1. strings "Morteza", "2"
+2. integers 2, 5, 10, -7, 0
+3. floats 2.25, 7.65, 10.7894
+4. booleans true, false
+5. arrays
+6. objects
+7. null
+
+functions => do something special task for us
+sign of functions => function's name()

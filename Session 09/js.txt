@@ -1,0 +1,42 @@
+for and operator (&&):
+if even one of the inputs takes false, the result turns to false
+
+for or operator (||):
+if even one of the inputs takes true, the result turns to true
+
+for not operator (!):
+toggle the input
+
+different structures in programming languages
+1. sequences
+2. selections (if else statement)
+3. iterations
+
+selections structure:
+
+if statement 
+if (condition boolean) {
+    if body statements runs if condition turns true
+}
+
+if-else statement
+if (condition boolean) {
+    if body statements runs if condition turns true
+} else {
+    else body statements runs if condition turns false
+}
+
+if-elseif-else statement
+if (condition 1) {
+    runs if condition 1 is true
+} else if (condition 2) {
+    runs if condition 2 is true
+} else if (condition 3) {
+    runs if condition 3 is true 
+} ...
+.
+.
+.
+else {
+    runs if all conditions are false
+}
